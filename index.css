@@ -25,14 +25,14 @@ button {
     font-size: 27px;
     font-weight: 300;
     font-variant-caps: all-petite-caps;
-	cursor: pointer;
     }
 .btn {
     color: #99a1ad;
     box-shadow: inset -3px -3px 7px #fff,
 	            inset 3px 3px 5px #5e6879;
 }
-.btn-active {
+.active {
+    cursor: pointer;
     color: #333;
     box-shadow: -3px -3px 7px #fff,
 	            3px 3px 5px #5e6879;
